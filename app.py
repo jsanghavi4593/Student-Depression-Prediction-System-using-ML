@@ -23,12 +23,12 @@ from sklearn.metrics import (
 
 # PAGE SETTINGS 
 st.set_page_config(
-    page_title="Student Depression Prediction System",
+    page_title="Student Depression Classification System",
     layout="wide"
 )
 
 # TITLE 
-st.title("Student Depression Prediction System")
+st.title("Student Depression Classification System")
 st.write("Upload dataset, select model and view results.")
 st.divider()
 
