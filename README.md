@@ -1,4 +1,4 @@
-# Student Depression Classification System – ML Assignment
+# Student Depression Prediction System – ML Assignment
 
 ---
 
