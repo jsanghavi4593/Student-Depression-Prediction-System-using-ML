@@ -1,4 +1,4 @@
-<h1 align="center">Student Depression Prediction System</h1>
+<h1 align="center">Student Depression Classification System</h1>
 
 ---
 
